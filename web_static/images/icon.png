@@ -1,0 +1,1 @@
+curl -X POST -F "file=@C:/Users/DUKE/OneDrive/Desktop/images/icon.png" http://example.com/upload
